@@ -48,3 +48,11 @@ NumPy
 Scikit-learn
 BeautifulSoup
 aiohttp
+
+___Running the Project___
+While the project is missing some key files to be able to run, this is how it would've been run:
+1. Generate the json dataset
+python testset_maker.py
+
+2. Train the model
+python train.py
